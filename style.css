@@ -1,0 +1,36 @@
+#homesection {
+    background-image: url("./images/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.thumbnail {
+    height: 150px;
+    width: 200px;
+}
+
+.projectimg {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    margin: 0% auto;
+}
+
+footer {
+    height: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+h1, h2 {
+     font-family: 'Mouse Memoirs', sans-serif; 
+}
+p {
+    font-family: 'Anton', sans-serif;
+}
+
+.fa-brands {
+    color: green;
+}
